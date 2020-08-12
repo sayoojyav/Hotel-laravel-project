@@ -14,7 +14,7 @@
   <!-- CSS Files -->
   <link href="{{asset('assets/css/material-dashboard.css?v=2.1.1')}}" rel="stylesheet" />
   <link href="{{asset('assets/css/demo1.css')}}" rel="stylesheet" />
-  <!-- CSS Just for demo purpose, don't include it in your project -->
+ 
 </head>
 
 <body class="">
