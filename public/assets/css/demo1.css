@@ -1,0 +1,21 @@
+.row #select {
+  width: 92%;
+  margin-top: 20px;
+  margin-left: 15px;
+  padding: 18px;
+  background: #9c27b0;
+  color: white;
+  border-radius: 4px;
+  resize: vertical;
+}
+.row #select_category
+{
+  width: 92%;
+  margin-top: 20px;
+  margin-left: 15px;
+  padding: 18px;
+  background: #9c27b0;
+  color: white;
+  border-radius: 4px;
+  resize: vertical;
+}
